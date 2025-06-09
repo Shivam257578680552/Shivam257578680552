@@ -1,7 +1,7 @@
 
 🖐️ Hi, I'm SHIVAM SHIVDAS BHANDE 
 
-👨‍💻 Front end Developer based in Pune, India.
+👨‍💻 Software Test Engineer based in Pune, India.
 
 📫 How to reach me: shivambhande9@gmail.com
 
